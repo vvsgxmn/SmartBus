@@ -1,25 +1,3 @@
-## 接毕业设计和论文
-
-### 作者微信：vvsgxmn  (支持修改、 部署调试、 支持代做毕设)
-
-### 接网站建设、小程序
-
-### 选题+开题报告+任务书+程序定制+安装调试+论文+答辩ppt 都可以做
-
-### 购买地址：[https://www.vvxx.love](https://www.vvxx.love)（vv毕设网）
-
-### 支持 **一键生成 UML 图**：上传项目压缩包即可自动产出功能模块图、用例图、流程图、E-R 图、时序图等全套毕设图表。
-
-### 提供 **免费配套软件下载 + 安装说明 + 部署教程**
-
-![vv毕设网 - 一键画图](https://fanhua-yingcai.oss-cn-shanghai.aliyuncs.com/uml-draw.png)
-
-<img src="https://fanhua-yingcai.oss-cn-shanghai.aliyuncs.com/image-20260825133349317.png" alt="image-20260825133349317" />
-
-⚠️ Bug添加微信**免费修复**，免费修复。其他平台的私信一律不管（微信方便发送文件）
-
----
-
 # 基于SpringBoot+Vue的智慧公交运行管理系统
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) 
@@ -45,6 +23,7 @@ SmartBus 是一款智慧公交运行管理系统，提供公交线路、站点�
 - 前端：Vue 3 + TypeScript + Vite + Element Plus + Pinia
 - 数据库：MySQL 8.x
 
+<!-- screenshots-start -->
 ## 系统截图
 
 <img src="https://fanhua-yingcai.oss-cn-shanghai.aliyuncs.com/AutoUpload/screenshots/smartbus/1-%E7%99%BB%E5%BD%95%E9%A1%B5%E9%9D%A2.png" alt="1-登录页面" width="600" />
@@ -70,3 +49,23 @@ SmartBus 是一款智慧公交运行管理系统，提供公交线路、站点�
 <img src="https://fanhua-yingcai.oss-cn-shanghai.aliyuncs.com/AutoUpload/screenshots/smartbus/%E8%AE%BA%E6%96%87%E5%9B%BE2.png" alt="论文图2" width="600" />
 
 <!-- screenshots-end -->
+
+## 接毕业设计和论文
+
+### 作者微信：vvsgxmn  (支持修改、 部署调试、 支持代做毕设)
+
+### 接网站建设、小程序
+
+### 选题+开题报告+任务书+程序定制+安装调试+论文+答辩ppt 都可以做
+
+### 购买地址：[https://www.vvxx.love](https://www.vvxx.love)（vv毕设网）
+
+### 支持 **一键生成 UML 图**：上传项目压缩包即可自动产出功能模块图、用例图、流程图、E-R 图、时序图等全套毕设图表。
+
+### 提供 **免费配套软件下载 + 安装说明 + 部署教程**
+
+![vv毕设网 - 一键画图](https://fanhua-yingcai.oss-cn-shanghai.aliyuncs.com/uml-draw.png)
+
+<img src="https://fanhua-yingcai.oss-cn-shanghai.aliyuncs.com/image-20260825133349317.png" alt="image-20260825133349317" />
+
+⚠️ Bug添加微信**免费修复**，免费修复。其他平台的私信一律不管（微信方便发送文件）
